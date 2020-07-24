@@ -1,0 +1,2 @@
+rootProject.name='LiteLessons'
+include ':app'
